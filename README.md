@@ -1,8 +1,7 @@
 # Machine_learning_Project
 
-Project Name : Hand Gesture Classifier using Convolution Neural Network and Transfer Learning
+Project Name: Hand Gesture Classifier using Convolution Neural Network and Transfer Learning
 
-Team members : Sharjeel Javaid , Lakshmi Likhitha Mankali
+Team members: Sharjeel Javaid , Lakshmi Likhitha Mankali
 
-Project Demo Website
-http://signpredictor.herokuapp.com/
+Project Demo Webpage: http://signpredictor.herokuapp.com/
